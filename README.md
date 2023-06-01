@@ -31,7 +31,7 @@ I strongly believe in collaboration and the spirit of open-source. I'm excited t
 ## Contact
 I'm excited to connect with you! You can find me on the following platforms:
 
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/jimbert-fuentes-521a15195)
+- LinkedIn: [LinkedIn Profile](linkedin.com/in/jimbert-fuentes-521a15195)
 
 Thank you for visiting my GitHub profile! If you have any questions, collaboration opportunities, or simply want to chat about mobile app development, feel free to reach out!
 
